@@ -4,7 +4,7 @@
 
 
 - 💼 Founder of **Projuktify** — building creative digital solutions
-- 🚀 Working on real-world projects involving **React**, **Javascript**, **FastAPI**, **WordPress**
+- 🚀 Working on real-world projects involving **React**, **JavaScript**, **FastAPI**, **WordPress**
 - 🌱 Constantly learning & exploring modern web technologies
 - 📫 How to reach me: nahidhasanbd71@gmail.com
 - 🌐 Website: [nahidbd.vercel.app](nahidbd.vercel.app)
@@ -47,7 +47,7 @@
   <a href="https://linkedin.com/in/nahidtech" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="nahidbd.vercel.app" target="_blank">
+  <a href="https://nahidbd.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
