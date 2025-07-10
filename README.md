@@ -4,7 +4,7 @@
 
 
 - 💼 Founder of **Projuktify** — building creative digital solutions
-- 🚀 Working on real-world projects involving **React**, **FastAPI**, **WordPress**
+- 🚀 Working on real-world projects involving **React**, **Javascript**, **FastAPI**, **WordPress**
 - 🌱 Constantly learning & exploring modern web technologies
 - 📫 How to reach me: nahidhasanbd71@gmail.com
 - 🌐 Website: [nahidbd.vercel.app](nahidbd.vercel.app)
