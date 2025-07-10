@@ -1,23 +1,18 @@
-<h1 align="center">Hi 👋, I'm Nahid Hasan</h1>
-<h3 align="center">A passionate tech enthusiast from Bangladesh</h3>
+<h3>Hi 👋, I'm Nahid Hasan</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nahidhasan&label=Profile%20views&color=0e75b6&style=flat" alt="nahidhasan" />
-</p>
 
----
 
-### 👨‍💻 About Me
 
-- 💼 Founder of **CyberKunjo**, building creative solutions at **Projuktify**
-- 🛒 Working on: **Medidrop** – A medical eCommerce site
-- 📱 Developing: **React-based Meal Management App**
-- 🌱 Learning: `API Integration`, `Full Stack Dev`, `Automation`
-- 🧠 Focused on real-world tech solutions for Bangladesh 🇧🇩
+- 💼 Founder of **Projuktify** — building creative digital solutions
+- 🚀 Working on real-world projects involving **React**, **FastAPI**, **WordPress**
+- 🌱 Constantly learning & exploring modern web technologies
+- 📫 How to reach me: nahidhasanbd71@gmail.com
+- 🌐 Website: [nahidbd.vercel.app](nahidbd.vercel.app)
 
----
 
-### 🛠️ Languages and Tools:
+
+
+### 🛠️ Languages and Tools
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -43,29 +38,17 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nahidhasan&show_icons=true&theme=tokyonight" alt="nahidhasan stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahidhasan&theme=tokyonight" alt="nahidhasan streak" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 <p>
-  <a href="https://facebook.com/yourfacebook" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:nahidhasanbd71@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+  <a href="https://linkedin.com/in/nahidtech" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="nahidbd.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
 
